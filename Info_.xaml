@@ -1,0 +1,36 @@
+﻿<Page x:Class="MedicineInfo.Info_"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MedicineInfo"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Info_">
+
+    <Grid Background="#FFCDE9CE">
+        <TextBlock HorizontalAlignment="Center" Margin="0,10,0,0" TextWrapping="Wrap" Text="MedIntel" VerticalAlignment="Top" Width="200" FontSize="36" FontFamily="Ink Free" Foreground="#FF0C6111" FontWeight="Bold" TextAlignment="Center"/>
+        <Rectangle HorizontalAlignment="Center" Height="1" Margin="0,63,0,0" Stroke="#FF0C6111" VerticalAlignment="Top" Width="786" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <TextBox x:Name="keyword" HorizontalAlignment="Left" Height="34" Margin="34,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="125" KeyDown="keyword_KeyDown" Text="검색" BorderBrush="{x:Null}"/>
+        <ListView x:Name="ans1_lv" HorizontalAlignment="Center" Height="297" VerticalAlignment="Top" Width="732" d:ItemsSource="{d:SampleData ItemCount=5}" Background="White" BorderBrush="{x:Null}" Margin="0,127,0,0" Foreground="#FF0C6111" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="이름" Width="Auto" DisplayMemberBinding="{Binding name}"/>
+                    <GridViewColumn Header="제조사" Width="Auto" DisplayMemberBinding="{Binding pro_name}"/>
+                    <GridViewColumn Header="효능" Width="Auto" DisplayMemberBinding="{Binding effect}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="menu_bt" Content="Menu" HorizontalAlignment="Left"  Background="#FF0C6111" Height="48" Margin="687,10,0,0" VerticalAlignment="Top" Width="79" BorderBrush="{x:Null}" Click="menu_bt_Click" Foreground="{DynamicResource {x:Static SystemColors.WindowBrushKey}}" FontFamily="Palatino Linotype" FontSize="16"/>
+
+    </Grid>
+</Page>

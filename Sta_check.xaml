@@ -1,0 +1,28 @@
+﻿<Page x:Class="MedicineInfo.Sta_check"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=Livecharts.Wpf"
+      xmlns:local="clr-namespace:MedicineInfo"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Sta_check">
+
+    <Grid Background="#FFCDE9CE">
+        <TextBlock HorizontalAlignment="Center" Margin="0,10,0,0" TextWrapping="Wrap" Text="MedIntel" VerticalAlignment="Top" Width="200" FontSize="36" FontFamily="Ink Free" Foreground="#FF0C6111" FontWeight="Bold" TextAlignment="Center"/>
+        <Rectangle HorizontalAlignment="Center" Height="2" Margin="0,43,0,0" Stroke="Black" VerticalAlignment="Top" Width="786" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Button x:Name="btn_Logout" Content="Home" HorizontalAlignment="Left" Margin="698,5,0,0" VerticalAlignment="Top" Background="{x:Null}" Width="84" Height="40" FontSize="16" Click="btn_Logout_Click" BorderBrush="{x:Null}"/>
+
+        <TextBlock HorizontalAlignment="Center" Height="166" Margin="0,273,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="782"/>
+    </Grid>
+</Page>

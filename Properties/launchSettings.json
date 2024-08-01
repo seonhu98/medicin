@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "MedicineInfo": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "nativeDebugging": true
+    }
+  }
+}

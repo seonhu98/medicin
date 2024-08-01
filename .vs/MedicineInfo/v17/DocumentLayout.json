@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|c:\\users\\lms\\desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\medicineinfo_333\\medicineinfo4444\\medicineinfo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|c:\\users\\lms\\desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\medicineinfo_333\\medicineinfo4444\\medicineinfo\\cs_main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|solutionrelative:cs_main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|c:\\users\\lms\\desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\medicineinfo_333\\medicineinfo4444\\medicineinfo\\cnt_main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|solutionrelative:cnt_main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|c:\\users\\lms\\desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\medicineinfo_333\\medicineinfo4444\\medicineinfo\\cnt_main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|solutionrelative:cnt_main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|c:\\users\\lms\\desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\medicineinfo_333\\medicineinfo4444\\medicineinfo\\drug_abuse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|solutionrelative:drug_abuse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|c:\\users\\lms\\desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\medicineinfo_333\\medicineinfo4444\\medicineinfo\\tcp\\tcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|solutionrelative:tcp\\tcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|c:\\users\\lms\\desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\medicineinfo_333\\medicineinfo4444\\medicineinfo\\drug_abuse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|solutionrelative:drug_abuse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|c:\\users\\lms\\desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\medicineinfo_333\\medicineinfo4444\\medicineinfo\\consult.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|solutionrelative:consult.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|c:\\users\\lms\\desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\medicineinfo_333\\medicineinfo4444\\medicineinfo\\sta_check.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|solutionrelative:sta_check.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|c:\\users\\lms\\desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\medicineinfo_333\\medicineinfo4444\\medicineinfo\\oorc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|solutionrelative:oorc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|c:\\users\\lms\\desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\medicineinfo_333\\medicineinfo4444\\medicineinfo\\surveyresult.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|solutionrelative:surveyresult.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|c:\\users\\lms\\desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\medicineinfo_333\\medicineinfo4444\\medicineinfo\\db\\info_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|solutionrelative:db\\info_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|c:\\users\\lms\\desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\medicineinfo_333\\medicineinfo4444\\medicineinfo\\regist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|solutionrelative:regist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|c:\\users\\lms\\desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\medicineinfo_333\\medicineinfo4444\\medicineinfo\\info_.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|solutionrelative:info_.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|c:\\users\\lms\\desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\medicineinfo_333\\medicineinfo4444\\medicineinfo\\info_.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|solutionrelative:info_.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|c:\\users\\lms\\desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\medicineinfo_333\\medicineinfo4444\\medicineinfo\\consult.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|solutionrelative:consult.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|c:\\users\\lms\\desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\medicineinfo_333\\medicineinfo4444\\medicineinfo\\sta_check.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|solutionrelative:sta_check.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|c:\\users\\lms\\desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\medicineinfo_333\\medicineinfo4444\\medicineinfo\\regist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|solutionrelative:regist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|c:\\users\\lms\\desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\medicineinfo_333\\medicineinfo4444\\medicineinfo\\oorc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDC5AD2A-FB87-4862-B1DF-65F91F6E4435}|MedicineInfo.csproj|solutionrelative:oorc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 772,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-29T12:09:17.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cs_main.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\cs_main.xaml.cs",
+              "RelativeDocumentMoniker": "cs_main.xaml.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\cs_main.xaml.cs",
+              "RelativeToolTip": "cs_main.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:03:26.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cnt_main.xaml",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\cnt_main.xaml",
+              "RelativeDocumentMoniker": "cnt_main.xaml",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\cnt_main.xaml",
+              "RelativeToolTip": "cnt_main.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-29T10:13:39.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Drug_Abuse.xaml",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\Drug_Abuse.xaml",
+              "RelativeDocumentMoniker": "Drug_Abuse.xaml",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\Drug_Abuse.xaml",
+              "RelativeToolTip": "Drug_Abuse.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T01:56:25.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sta_check.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\Sta_check.xaml.cs",
+              "RelativeDocumentMoniker": "Sta_check.xaml.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\Sta_check.xaml.cs",
+              "RelativeToolTip": "Sta_check.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T01:55:59.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Sta_check.xaml",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\Sta_check.xaml",
+              "RelativeDocumentMoniker": "Sta_check.xaml",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\Sta_check.xaml",
+              "RelativeToolTip": "Sta_check.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T01:55:57.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Regist.xaml",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\Regist.xaml",
+              "RelativeDocumentMoniker": "Regist.xaml",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\Regist.xaml",
+              "RelativeToolTip": "Regist.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T01:55:53.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OorC.xaml",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\OorC.xaml",
+              "RelativeDocumentMoniker": "OorC.xaml",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\OorC.xaml",
+              "RelativeToolTip": "OorC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T01:55:50.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OorC.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\OorC.xaml.cs",
+              "RelativeDocumentMoniker": "OorC.xaml.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\OorC.xaml.cs",
+              "RelativeToolTip": "OorC.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T01:55:43.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Consult.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\Consult.xaml.cs",
+              "RelativeDocumentMoniker": "Consult.xaml.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\Consult.xaml.cs",
+              "RelativeToolTip": "Consult.xaml.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T01:53:48.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Drug_Abuse.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\Drug_Abuse.xaml.cs",
+              "RelativeDocumentMoniker": "Drug_Abuse.xaml.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\Drug_Abuse.xaml.cs",
+              "RelativeToolTip": "Drug_Abuse.xaml.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAwwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T01:38:55.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Consult.xaml",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\Consult.xaml",
+              "RelativeDocumentMoniker": "Consult.xaml",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\Consult.xaml",
+              "RelativeToolTip": "Consult.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T01:56:11.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cnt_main.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\cnt_main.xaml.cs",
+              "RelativeDocumentMoniker": "cnt_main.xaml.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\cnt_main.xaml.cs",
+              "RelativeToolTip": "cnt_main.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T01:53:36.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SurveyResult.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\SurveyResult.xaml.cs",
+              "RelativeDocumentMoniker": "SurveyResult.xaml.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\SurveyResult.xaml.cs",
+              "RelativeToolTip": "SurveyResult.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAFQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:50:01.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tcp.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\TCP\\tcp.cs",
+              "RelativeDocumentMoniker": "TCP\\tcp.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\TCP\\tcp.cs",
+              "RelativeToolTip": "TCP\\tcp.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T01:39:11.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Info_.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\Info_.xaml.cs",
+              "RelativeDocumentMoniker": "Info_.xaml.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\Info_.xaml.cs",
+              "RelativeToolTip": "Info_.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T01:56:30.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Regist.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\Regist.xaml.cs",
+              "RelativeDocumentMoniker": "Regist.xaml.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\Regist.xaml.cs",
+              "RelativeToolTip": "Regist.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:49:45.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "info_.cs",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\DB\\info_.cs",
+              "RelativeDocumentMoniker": "DB\\info_.cs",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\DB\\info_.cs",
+              "RelativeToolTip": "DB\\info_.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:51:54.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Info_.xaml",
+              "DocumentMoniker": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\Info_.xaml",
+              "RelativeDocumentMoniker": "Info_.xaml",
+              "ToolTip": "C:\\Users\\lms\\Desktop\\\uD504\uB85C\uC81D\uD2B8\\\uC758\uC57D\uD488 \uC815\uBCF4 \uAC80\uC0C9\\MedicineInfo_333\\MedicineInfo4444\\MedicineInfo\\Info_.xaml",
+              "RelativeToolTip": "Info_.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T01:56:28.299Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
